@@ -1,0 +1,28 @@
+{
+  "name": "json2typescript-with-generator-angular2-library",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kirakishin/json2typescript-with-generator-angular2-library.git"
+  },
+  "author": {
+    "name": "kirakishin",
+    "email": "kirakishin@bkm.me"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "git@github.com:kirakishin/json2typescript-with-generator-angular2-library.git/issues"
+  },
+  "main": "json2typescript-with-generator-angular2-library.umd.js",
+  "module": "json2typescript-with-generator-angular2-library.js",
+  "jsnext:main": "json2typescript-with-generator-angular2-library.js",
+  "typings": "json2typescript-with-generator-angular2-library.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}

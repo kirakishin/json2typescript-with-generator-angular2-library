@@ -1,0 +1,7 @@
+{
+  "generator-angular2-library": {
+    "promptValues": {
+      "gitRepositoryUrl": "git@github.com:kirakishin/json2typescript-with-generator-angular2-library.git"
+    }
+  }
+}
