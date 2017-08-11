@@ -1,8 +1,9 @@
 {
   "compilerOptions": {
     "baseUrl": "./src",
-    "experimentalDecorators": true,
     "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
     "rootDir": "./src",
     "lib": [
       "es2015",
